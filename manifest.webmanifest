@@ -1,0 +1,17 @@
+{
+  "name": "Nexus Gaming Hub",
+  "short_name": "Nexus Hub",
+  "description": "Local gaming dashboard for Nintendo Switch 2 and Windows.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
